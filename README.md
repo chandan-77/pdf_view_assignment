@@ -27,14 +27,14 @@ A Flutter application for generating and previewing PDF invoices based on select
 
 ## Folder Structure
 
-├── assets/
-│ └── fonts/
-├── lib/
-│ ├── models/
-│ │ └── product.dart
-│ ├── screens/
-│ │ ├── product_invoice_selection_screen.dart
-│ │ └── data_preview_screen.dart
-│ ├── services/
-│ │ └── pdf_service.dart
-│ └── main.dart
+    ├── assets/
+    │ └── fonts/
+    ├── lib/
+    │ ├── models/
+    │ │ └── product.dart
+    │ ├── screens/
+    │ │ ├── product_invoice_selection_screen.dart
+    │ │ └── data_preview_screen.dart
+    │ ├── services/
+    │ │ └── pdf_service.dart
+    │ └── main.dart
